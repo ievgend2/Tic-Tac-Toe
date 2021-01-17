@@ -1,5 +1,5 @@
-#Tic Tac Toe
-##Requirements:
+# Tic Tac Toe Game
+## Requirements:
 
 * Welcome page: with the Logo and the 'start' button which will disappears when the user clicks it.
 <img src="./src/images/finalLook/welcome.png">
