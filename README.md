@@ -1,25 +1,5 @@
-Now that you know how to create with React. It is time to create a game. We are going to create Tic tac toe this time.
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-We have the folder setted up for you.
-
-In the project directory, you need to run:
-
-## `npm install`
-
-download the dependencies
-
-### `npm start`
-
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
-
-[Here you have a Demo](https://xenodochial-mcnulty-3024f6.netlify.app/)
-
-Requirements:
+#Tic Tac Toe
+##Requirements:
 
 * Welcome page: with the Logo and the 'start' button which will disappears when the user clicks it.
 <img src="./src/images/finalLook/welcome.png">
